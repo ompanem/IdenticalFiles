@@ -1,0 +1,9 @@
+More options
+Under More Options, you will find the ability to enable Submit Over Limit. Enable this option if you want to allow the learner to submit their essay, even if it is over the word limit.
+Layout
+You can set Min height and Max height of the text entry field. The values should be entered in px.
+Additionally, you may want to add a placeholder that will be displayed inside the text entry field. It will disappear when the user starts typing text in.
+
+Spellcheck and text correction: Check this box to turn on spellcheck in the text entry area. When this box is unchecked, browser spellcheck will be disabled, along with auto-correct, auto-complete, and auto-capitalize on iOS devices. Note: This is a browser feature and may not always be available or supported.
+
+Enabling Character Map allows authors to add non-typical letters and symbols in language e.g. ó, ç, ñ or Math and Science e.g. μ, ∞ ,≤, and make them available for the students in Essay Text questions. When Character Map is on, the default Alpha character map will be shown to the students. The Numerical Character Map will be available when the Has Mathematical Formulas option is enabled. To create a Custom Character Map enter the specific characters into the Characters to display box.
