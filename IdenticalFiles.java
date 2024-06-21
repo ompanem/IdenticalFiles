@@ -38,21 +38,21 @@ public class IdenticalFiles {
 
     public void readFirstFile() {
         firstFileString = "";
-        while(firstFileReader.hasNextLine()){
-            firstFileString+=firstFileReader.nextLine();
+        while(firstFileReader.hasNextLine()){ //while the file hasn't reached the end add each line to the firstFileString
+            firstFileString+=firstFileReader.nextLine(); 
         }
-        firstFileString = firstFileString.trim();
+        firstFileString = firstFileString.trim(); 
         firstFileReader.close();
 
     }
 
     public void readSecondFile(){
         secondFileString = "";
-        while(secondFileReader.hasNextLine()){
+        while(secondFileReader.hasNextLine()){ //while the file hasn't reached the end add each line to the secondFileString
             secondFileString+=secondFileReader.nextLine();
         }
         secondFileString = secondFileString.trim();
-        secondFileReader.close();
+        secondFileReader.close(); 
     }
 
     public String areFilesIdentical(){
