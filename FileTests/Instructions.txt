@@ -1,0 +1,2 @@
+If you want to test this program with same and different files.  SameFile and SameFile1.txt are the exact same and you can test whether this program works properly.  There is also DifferentFile 
+and differentFile.txt which are different from eachother.  
